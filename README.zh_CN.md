@@ -3,8 +3,8 @@
 [![npm package](https://img.shields.io/npm/v/@qubit-ltd/storage.svg)](https://npmjs.com/package/@qubit-ltd/storage)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![English Document](https://img.shields.io/badge/document-English-blue.svg)](README.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/js-storage/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/js-storage/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/js-storage/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/js-storage?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/js-storage/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/js-storage/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/js-storage/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/js-storage?branch=master)
 
 [@qubit-ltd/storage] 是一个 JavaScript 库，为 Web 存储 API 提供包装对象，包括 cookies、localStorage 和 sessionStorage。该库通过自动使用 JSON 进行序列化和反序列化，使存储和检索任何 JavaScript 对象变得简单。
 
@@ -111,5 +111,5 @@ SessionStorage.remove('cart');
 有关更多详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
 [@qubit-ltd/storage]: https://npmjs.com/package/@qubit-ltd/storage
-[GitHub 仓库]: https://github.com/Haixing-Hu/js-storage
+[GitHub 仓库]: https://github.com/qubit-ltd/js-storage
 [@qubit-ltd/json]: https://npmjs.com/package/@qubit-ltd/json 
